@@ -13,4 +13,7 @@ Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a 
 
 OUTPUT:
 
+<img width="832" height="800" alt="image" src="https://github.com/user-attachments/assets/0e357dd5-9e8f-4ebc-b349-49b2028a7aff" />
+
 RESULT: 
+Thus, these are the following scenario for the required types
